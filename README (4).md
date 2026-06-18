@@ -1,6 +1,6 @@
 # TD2 - Terraform : Filtrage Entrant (Bastion), Filtrage Sortant (NAT) et Sonde Suricata
 
-**Étudiant :** RAVEENDRAKUMAR Arusan   
+**Étudiant :** KULARAJASINGAM Kosakan   
 **Cours :** Terraform / AWS  
 **Date :** Juin 2026  
 
